@@ -1,1 +1,0 @@
-nerdcast_feed = "https://jovemnerd.com.br/feed-nerdcast/"
